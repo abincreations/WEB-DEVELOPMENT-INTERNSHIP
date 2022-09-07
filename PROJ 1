@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>PROJECT NEW.HTML</title>
+</head>
+<body>
+    <h1>FINAL PROJECT</h1>
+    <h2>MODULE 2</h2>
+    <h3>HAPPY MOTORING</h3>
+    <img
+    src="majestic-lukas-tAUpEIpBUOw-unsplash.jpg"
+    width="1000"
+    height="800"
+    alt="Show me"
+    >
+<br>
+<br>
+<br>
+
+<h2>ADDING SOCIAL MEDIA LINKS</h2>
+<br>
+<br>
+<a href="https://twitter.com/abinraj_m">
+    Welcome to <b>TWITTER</b>
+</a>
+<br>
+<a href="https://m.facebook.com/profile.php?id=100016563901124">
+    Welcome to <b>FACEBOOK</b>
+</a>
+<br>
+<a href="https://www.instagram.com/_motoholic_boy_0081/">
+    Welcome to <b>INSTAGRAM</b>
+</a>
+
+</body>
+</html>
